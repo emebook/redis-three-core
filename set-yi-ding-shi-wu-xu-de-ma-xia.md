@@ -310,7 +310,7 @@ v = rev(v); // 再次反转，得到下一个游标值
 
 下面通过一个简单的例子，来看下标v在实际操作中的变化过程。
 
-![image](https://user-images.githubusercontent.com/35942268/170864059-872065a6-711d-41b5-98d6-ddce0abb7e59.png)
+![image](.gitbook/assets/222.png)
 
 关于Redis反向二进制算法的更多讨论，可以[查看这里](https://github.com/redis/redis/pull/579/files)
 
