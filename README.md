@@ -1,6 +1,10 @@
+---
+description: 《从实践中探究Redis原理》在线书籍
+---
+
 # 本书介绍
 
-![](.gitbook/assets/image.png)
+![从实践中探究Redis原理](.gitbook/assets/image.png)
 
 书籍作者 ：[wgrape](https://github.com/wgrape/)
 
