@@ -6,7 +6,7 @@
 
 书籍名称 ：[《Redis三大核心讲解》](https://wgrape.gitbook.io/redis-three-core)
 
-开源地址 ：[https://github.com/emebook/explore-redis-principle-in-action](https://github.com/emebook/redis-three-core)
+开源地址 ：[https://github.com/emebook/redis-three-core](https://github.com/emebook/redis-three-core)
 
 发布时间 ：2023年01月20日
 
