@@ -1,10 +1,10 @@
 # 本书介绍
 
-![从实践中探究Redis原理](https://user-images.githubusercontent.com/35942268/205478078-8587dc88-8039-4157-a7d1-be8e83375ab9.png)
+\<img src="[https://user-images.githubusercontent.com/35942268/205483819-44e78072-6ada-4579-8aa2-0ffe86bd80b9.png](https://user-images.githubusercontent.com/35942268/205483819-44e78072-6ada-4579-8aa2-0ffe86bd80b9.png)" with="400px">
 
 书籍作者 ：[wgrape](https://github.com/wgrape/)
 
-书籍名称 ：[《从实践中探究Redis原理》](https://wgrape.gitbook.io/explore-redis-principle-in-action/)
+书籍名称 ：[《Redis三大核心讲解》](https://wgrape.gitbook.io/explore-redis-principle-in-action/)
 
 开源地址 ：[https://github.com/emebook/explore-redis-principle-in-action](https://github.com/emebook/explore-redis-principle-in-action)
 
